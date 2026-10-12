@@ -1,4 +1,4 @@
-# EXCEL---McDonalds-Dashboard
+# EXCEL-McDonalds-Dashboard
 Excel Dashboard from Raw Data for McDanalds
 
 **Overview**

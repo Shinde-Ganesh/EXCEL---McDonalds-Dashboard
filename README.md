@@ -4,6 +4,11 @@ Excel Dashboard from Raw Data for McDanalds
 **Overview**
 This repository contains the sales analytics dashboard and cleaned dataset for McDonald's regional performance in India. The Excel dashboard (McDonald Clean Data.xlsx) provides interactive insights into sales revenue, profitability, customer demographics, ordering patterns, and item performance across states.
 
+**Dashboard Screenshot**
+
+<img width="1518" height="616" alt="McDonald  Dashboard" src="https://github.com/user-attachments/assets/673392b0-742d-4337-87d8-f004bfa9dd64" />
+
+
 **File Structure**
 
 McDonald Clean Data.xlsx: Excel workbook containing raw order records, cleaned data tables, KPI metrics, pivot tables, and the interactive dashboard layout.
